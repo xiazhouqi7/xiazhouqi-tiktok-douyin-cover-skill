@@ -7,7 +7,7 @@
 在一个全新的 ChatGPT 对话中同时提供：
 
 1. `SKILL.md`
-2. `REFERENCE_CANONICAL.png`
+2. `REFERENCE_CANONICAL.webp`
 3. 本期封面的主题与必要文案
 
 然后直接要求：
@@ -23,5 +23,10 @@
 - 克制的品牌色
 - 单一主视觉 + 少量毛玻璃信息卡
 - 同一品牌，不同版式
+
+## 文件
+
+- `SKILL.md`：完整执行规范
+- `REFERENCE_CANONICAL.webp`：唯一视觉母版
 
 当前版本：**v3.1 — Adaptive Layout Edition**

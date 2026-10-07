@@ -1,6 +1,6 @@
-# Xiazhouqi Tech Cover Skill v3.1 — Adaptive Layout Edition
+# Xiazhouqi TikTok & Douyin Cover Skill v3.1 — Adaptive Layout Edition
 
-> **用途：给一个“全新的 ChatGPT 对话”使用。** 这个对话可以完全不知道下周七是谁、也没有任何历史记忆。只要同时上传本文件 `SKILL.md` 与 `REFERENCE_CANONICAL.png`，再告诉 ChatGPT 本次封面的主题，它就应当按照这里的视觉体系直接生成封面。
+> **用途：给一个“全新的 ChatGPT 对话”使用。** 这个对话可以完全不知道下周七是谁、也没有任何历史记忆。只要同时上传本文件 `SKILL.md` 与 `REFERENCE_CANONICAL.webp`，再告诉 ChatGPT 本次封面的主题，它就应当按照这里的视觉体系直接生成封面。
 
 > **v3.1 的核心升级：固定的是“下周七视觉 DNA”，不是固定某一张模板。** 参考图用于锁定比例、边框、颜色、材质、饱和度与品牌气质；具体标题位置、设备位置、卡片组合与留白方式，应根据每期主题重新组织。目标是“同一个品牌，不同的一期”，而不是“同一张模板，只换标题”。
 
@@ -8,9 +8,9 @@
 
 ## 0. 给 ChatGPT 的执行指令（必须先读）
 
-当用户上传本 Skill 和 `REFERENCE_CANONICAL.png`，并要求“做封面 / 按下周七风格做图”时：
+当用户上传本 Skill 和 `REFERENCE_CANONICAL.webp`，并要求“做封面 / 按下周七风格做图”时：
 
-1. **必须把 `REFERENCE_CANONICAL.png` 作为最高优先级视觉母版。**
+1. **必须把 `REFERENCE_CANONICAL.webp` 作为最高优先级视觉母版。**
 2. 参考图必须继承：比例、黑色细分隔、奶油香槟实体边框、颜色、材质、饱和度、光影、卡片感与品牌气质；**但禁止机械复制参考图的具体构图。**
 3. 生成前先判断本期内容更适合哪一种 Layout Family（A–E），再组织新的构图。
 4. 用户给了新主题，就替换成新主题；用户没有给完整文案时，可以自行压缩成适合封面的短文案，但不要添加夸张营销词。
@@ -23,9 +23,9 @@
 
 ---
 
-# 1. 一眼记住：12 条不可修改的 HARD RULES
+# 1. 一眼记住：15 条不可修改的 HARD RULES
 
-无论主题是 ChatGPT、Apple ID、YouTube、礼品卡、支付、网络工具还是软件教程，先锁死下面 12 条：
+无论主题是 ChatGPT、Apple ID、YouTube、礼品卡、支付、网络工具还是软件教程，先锁死下面 15 条：
 
 1. **独立封面比例固定为 3:4 竖版。**
 2. **默认母版 1086 × 1448 px**，或任何严格等比例的 3:4 尺寸。
@@ -49,7 +49,7 @@
 
 # 2. 参考图的地位
 
-`REFERENCE_CANONICAL.png` 是本 Skill 的**唯一视觉母版**。
+`REFERENCE_CANONICAL.webp` 是本 Skill 的**唯一视觉母版**。
 
 它的作用不是让模型复制“13 元 YouTube Premium”，而是让模型理解：
 
@@ -67,7 +67,7 @@
 
 如果文字描述和模型自己的默认审美发生冲突：
 
-> **REFERENCE_CANONICAL.png > HARD RULES > 详细规则 > 模型自由发挥**
+> **REFERENCE_CANONICAL.webp > HARD RULES > 详细规则 > 模型自由发挥**
 
 不要因为主题换成 ChatGPT，就把画面做成绿色 ChatGPT 广告；不要因为主题是支付宝，就把整张图做成蓝色。
 
@@ -456,7 +456,7 @@
 价格 / 利益点先抓眼，产品第二。
 
 **注意：**
-这是最接近 `REFERENCE_CANONICAL.png` 的版式，但**不能因为它最稳就每次都用**。
+这是最接近 `REFERENCE_CANONICAL.webp` 的版式，但**不能因为它最稳就每次都用**。
 
 ---
 
